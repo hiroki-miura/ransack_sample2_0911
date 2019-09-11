@@ -1,0 +1,15 @@
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190911-25022-6iouem.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190911-25022-1b5u03y/skiptrace/internal

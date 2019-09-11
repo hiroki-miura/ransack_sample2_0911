@@ -1,0 +1,11 @@
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/childprocess-2.0.0/ext
+/Users/Owner/.rbenv/versions/2.3.7/bin/ruby mkrf_conf.rb
+Ignoring ffi-1.11.1 because its extensions are not built. Try: gem pristine ffi --version 1.11.1
+Ignoring puma-3.12.1 because its extensions are not built. Try: gem pristine puma --version 3.12.1
+Ignoring sqlite3-1.4.1 because its extensions are not built. Try: gem pristine sqlite3 --version 1.4.1
+
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/childprocess-2.0.0/ext
+/Users/Owner/.rbenv/versions/2.3.7/bin/ruby -rrubygems /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/rake-12.3.3/exe/rake RUBYARCHDIR\=/Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/extensions/x86_64-darwin-18/2.3.0-static/childprocess-2.0.0 RUBYLIBDIR\=/Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/extensions/x86_64-darwin-18/2.3.0-static/childprocess-2.0.0
+Ignoring ffi-1.11.1 because its extensions are not built. Try: gem pristine ffi --version 1.11.1
+Ignoring puma-3.12.1 because its extensions are not built. Try: gem pristine puma --version 3.12.1
+Ignoring sqlite3-1.4.1 because its extensions are not built. Try: gem pristine sqlite3 --version 1.4.1

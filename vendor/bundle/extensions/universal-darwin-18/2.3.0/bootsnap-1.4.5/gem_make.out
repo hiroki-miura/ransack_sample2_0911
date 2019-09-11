@@ -1,0 +1,15 @@
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190911-25022-x7dv07.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/Owner/Desktop/rails_lesson/ransack_sample2_0911/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190911-25022-8mzxhj/bootsnap
